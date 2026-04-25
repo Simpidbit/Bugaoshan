@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - 二课活动详情页时间显示改为两行布局
 - 更新服务重构：将 GitHub Release 方法移至 UpdateService
+- 增加重定向请求重试机制：修复部分 Linux 发行版下从教务系统获取信息失败的问题
 
 ## [0.6.0] - 2025-03-13
 
